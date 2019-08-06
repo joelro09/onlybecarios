@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+div{
+    width: 500px;
+    height: 350px;
+    padding: 30px;
+    background: rgba(231, 216, 212, 0.705);
+    border-radius: 3px;
+    margin: 0 490px;
+    border: 1.5px solid rgb(183, 183, 230);
+}
+
+header{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+    
